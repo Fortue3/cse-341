@@ -10,7 +10,7 @@ app.use('/', require("./routes"));
 const port = process.env.port || 3000;
 
 
-mongodb.initDb((err) => {
+mongodb.intDb((err) => {
     if(err){
         console.log(err);
     }
