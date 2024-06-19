@@ -1,0 +1,25 @@
+[
+{
+    "firstName": "Reuben", 
+    "lastName": "Musharukwa", 
+    "email": "reubmush@gmail.com", 
+    "favoriteColor": "Green", 
+    "birthday": "09/07/2009"
+
+},
+{
+ "firstName": "Monica", 
+    "lastName": "Williams", 
+    "email": "willmo@outlook.com", 
+    "favoriteColor": "Pink", 
+    "birthday": "28/04/1987"   
+},
+{
+    "firstName": "Lameck", 
+    "lastName": "Johns", 
+    "email": "johnsl@gmail.com", 
+    "favoriteColor": "Black", 
+    "birthday": "13/10/1990"
+}
+
+]
